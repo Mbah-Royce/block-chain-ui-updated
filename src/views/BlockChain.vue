@@ -4,7 +4,7 @@
   </center>
   <hr />
   <div class="" v-for="(block, index) of blocks" :key="block.index">
-    {{ hash(block.block_prev_hash+""+block.block_id+""+block.block_nonce+""+block.transaction_id+""+block.transaction_amount+block.transactiono_reciver+block.transaction_sender+block.transaction_signature)}}
+    <!-- {{ hash(block.block_prev_hash+""+block.block_id+""+block.block_nonce+""+block.transaction_id+""+block.transaction_amount+block.transactiono_reciver+block.transaction_sender+block.transaction_signature)}} -->
     <Block
       :blockId="block.block_id"
       :nonce="block.block_nonce"

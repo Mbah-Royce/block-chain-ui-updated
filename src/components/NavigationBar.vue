@@ -2,7 +2,7 @@
   <header style="background-color: black">
     <nav class="navbar navbar-expand-custom navbar-mainbg">
       <a class="navbar-brand navbar-logo" href="#"
-        >Land Aquisition BlockChain</a
+        >Land Title BlockChain</a
       >
       <button
         class="navbar-toggler"
