@@ -1,0 +1,16 @@
+export const CREATE_WALLET_ACTION = "[actions] createWallet";
+export const SET_USER_TOKEN_MUTATION = "[mutations] set user token";
+export const LOADING_SPINNER_SHOW_MUTATION = "[mutations] show loader";
+export const ACCESS_WALLET = "[actions] accessWallet";
+export const GET_USER_TOKEN_GETTER = "[getters] auth user token";
+export const IS_USER_AUTHENTICATE_GETTER = "[getters] is user authenticated";
+export const GET_USER_DATA = "[getters] user data";
+export const AUTO_LOGIN_ACTION = "[actions] user Login";
+export const UPDATE_AREA = "[mutations] update area";
+export const LOGOUT_ACTION = "[actions] logout user";
+export const TRANSATION_SUBMIT = "[actions] user submit transaction";
+export const GET_USER_INFO = "[actions] user info";
+export const SET_USER_DATA_MUTATION = "[mutations] set user info"
+export const USER_NAME_GETTER = "[getter] get user name"
+export const USER_ROLE_GETTER = "[getter] user role";
+export const ISSUE_CERTIFICATE = "[action]  issue certificate"
